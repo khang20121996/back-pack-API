@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "JSON-server-backpack",
+  "version": "1.0.0",
+  "description": "fake API for my project",
+  "main": "main.js",
+  "scripts": {
+    "test": "Error: no test specified",
+    "dev": "nodemon main.js",
+    "start": "node main.js",
+    "generate-data": "node generate-data.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^5.5.3",
+    "nodemon": "^2.0.20",
+    "prettier": "2.7.1"
+  }
+}
