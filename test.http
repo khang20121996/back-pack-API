@@ -1,4 +1,4 @@
-GET http://localhost:3000/destination-list?_page=2&_limit=5
+GET http://localhost:3000/things-to-see
 
 
 
