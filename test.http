@@ -1,4 +1,4 @@
-GET http://localhost:3000/things-to-see
+GET http://localhost:3000/things-to-see?id=1
 
 
 
