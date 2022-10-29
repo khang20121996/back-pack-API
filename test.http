@@ -1,4 +1,1 @@
-GET http://localhost:3000/things-to-see?id=1
-
-
-
+GET http://localhost:3000/things-to-see?idDestination=1
