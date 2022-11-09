@@ -603,7 +603,7 @@
     {
       "id": 1,
       "image": "https://backpacktraveler.qodeinteractive.com/wp-content/uploads/2018/08/produc-1t-1.png",
-      "rating": 5,
+      "rating": 4,
       "price": 24.0,
       "name": "501 places",
       "desctiption": "Eam tale eros civibus ad. Vel cu habemus iudicabit referrentur, cu est autem omnesque. Dolorum accusamus at vel, duo putent accommodare ei. In veritus tacimates convenire mea, eam quas falli eripuit et. Ne graece audiam sea, fabellas urbanitas assueverit sea.",
@@ -641,7 +641,7 @@
     {
       "id": 3,
       "image": "https://backpacktraveler.qodeinteractive.com/wp-content/uploads/2018/08/produc4.png",
-      "rating": 5,
+      "rating": 4,
       "price": 33.0,
       "name": "FRANCE IN 6 DAYS",
       "desctiption": "Eam tale eros civibus ad. Vel cu habemus iudicabit referrentur, cu est autem omnesque. Dolorum accusamus at vel, duo putent accommodare ei. In veritus tacimates convenire mea, eam quas falli eripuit et. Ne graece audiam sea, fabellas urbanitas assueverit sea.",
@@ -662,7 +662,7 @@
       "image": "https://backpacktraveler.qodeinteractive.com/wp-content/uploads/2018/08/produc3.png",
       "rating": 5,
       "price": 31.0,
-      "name": "FRANCE IN 6 DAYS",
+      "name": "GREECE",
       "desctiption": "Eam tale eros civibus ad. Vel cu habemus iudicabit referrentur, cu est autem omnesque. Dolorum accusamus at vel, duo putent accommodare ei. In veritus tacimates convenire mea, eam quas falli eripuit et. Ne graece audiam sea, fabellas urbanitas assueverit sea.",
       "additional-infor": [{ "weight": "1kg" }, { "dimensions": "15 × 15 × 15 cm" }],
       "review": [
